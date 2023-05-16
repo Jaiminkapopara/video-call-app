@@ -1,6 +1,6 @@
 # Realtime Chat Application
 
-![Video Chat]()
+![Video Chat](https://github-production-user-asset-6210df.s3.amazonaws.com/88267997/238620060-ea1208e2-1891-4252-ac64-fabf9b3e5a1d.png)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
