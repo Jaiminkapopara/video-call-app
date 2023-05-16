@@ -1,6 +1,5 @@
 # video-call-app
-
-![Video Chat](![image](https://github.com/Jaiminkapopara/video-call-app/assets/88267997/ea1208e2-1891-4252-ac64-fabf9b3e5a1d)
+(![image](https://github.com/Jaiminkapopara/video-call-app/assets/88267997/ea1208e2-1891-4252-ac64-fabf9b3e5a1d)
 )
 
 ## Introduction
